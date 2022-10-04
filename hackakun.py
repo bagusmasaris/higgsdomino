@@ -1,118 +1,107 @@
-main.py
+<?php
+
+echo "mencari akun";
+
+echo "id =22315690";
+echo "paswordt = fikiansyah";
+echo "status = SUCCESS";
+
+echo " id =213590988";
+echo " paswordt = qwer1234";
+echo " status = SUCCESS";
+
+echo " id =232243623";
+echo " paswordt = gacordong";
+echo " status = SUCCESS";
+
+echo " id =213225184";
+echo " paswordt = wijayanto321";
+echo " status = SUCCESS";
+
+echo " id =212982727";
+echo " paswordt = forbless";
+echo " status = SUCCESS";
+
+echo " id =207275653";
+echo " paswordt = limatiga";
+echo " status = SUCCESS";
+
+echo " id =233243111";
+echo " paswordt = asuii1";
+echo " status = SUCCESS";
+
+echo " id =233010383";
+echo " paswordt = sawojajar";
+echo " status = SUCCESS";
 
 
-print ("mencari akun")
+echo " id =231938045";
+echo " paswordt = clone221";
+echo " status = SUCCESS";
 
-print ("
-id =22315690
-paswordt = fikiansyah
-status = SUCCESS")
+echo " id =233036398";
+echo " paswordt = muharto11";
+echo " status = SUCCESS";
 
-print ("
-id =213590988
-paswordt = qwer1234@
-status = SUCCESS")
 
-print ("
-id =232243623
-paswordt = gacordong
-status = SUCCESS")
+echo " id =154515094";
+echo " paswordt = jancok11";
+echo " status = SUCCESS";
 
-print ("
-id =213225184
-paswordt = wijayanto321
-status = SUCCESS")
 
-print ("
-id =212982727
-paswordt = forbless
-status = SUCCESS")
+echo " id =323831210";
+echo " paswordt = aa5430";
+echo " status = SUCCESS";
 
-print ("
-id =207275653
-paswordt = limatiga
-status = SUCCESS")
 
-print ("
-id =233243111
-paswordt = asuii1
-status = SUCCESS")
+echo " id =203443121";
+echo " paswordt = kontol21";
+echo " status = SUCCESS";
 
-print ("
-id =233010383
-paswordt = sawojajar
-status = SUCCESS")
 
-print ("
-id =231938045
-paswordt = clone221
-status = SUCCESS")
+echo " id =429745477";
+echo " paswordt = leon2121";
+echo " status = SUCCESS";
 
-print ("
-id =233036398
-paswordt = muharto11
-status = SUCCESS")
 
-print ("
-id =154515094
-paswordt = jancok11
-status = SUCCESS")
+echo " id =207274605";
+echo " paswordt = gratisan";
+echo " status = SUCCESS";
 
-print ("
-id =323831210
-paswordt = aa5430
-status = SUCCESS")
 
-print ("
-id =203443121
-paswordt = kontol21
-status = SUCCESS")
+echo " id =323831210";
+echo " paswordt = riska32";
+echo " status = SUCCESS";
 
-print ("
-id =429745477
-paswordt = leon2121
-status = SUCCESS")
 
-print ("
-id =207274605
-paswordt = gratisan
-status = SUCCESS")
+echo " id =22315690";
+echo " paswordt = fikiansyah";
+echo " status = SUCCESS";
 
-print ("
-id =323831210
-paswordt = riska32
-status = SUCCESS")
 
-print ("
-id =22315690
-paswordt = fikiansyah
-status = SUCCESS")
+echo " id =231679664";
+echo " paswordt = qwer1234";
+echo " status = SUCCESS";
 
-print ("
-id =231679664
-paswordt = qwer1234@
-status = SUCCESS")
+echo " id =213678247";
+echo " paswordt = qwer1234";
+echo " status = SUCCESS";
 
-print ("
-id =213678247
-paswordt = qwer1234@
-status = SUCCESS")
 
-print ("
-id =232243623
-paswordt = qwer1234@
-status = SUCCESS")
+echo " id =232243623";
+echo " paswordt = qwer1234";
+echo " status = SUCCESS";
 
-print ("
-id =233479231
-paswordt = berkah001
-status = SUCCESS")
 
-print ("
-id =233168699
-paswordt = berkah001
-status = SUCCESS")
+echo " id =233479231";
+echo " paswordt = berkah001";
+echo " status = SUCCESS";
+
+
+echo " id =233168699";
+echo " paswordt = berkah001";
+echo " status = SUCCESS";
 
        
 
-       
+?>
